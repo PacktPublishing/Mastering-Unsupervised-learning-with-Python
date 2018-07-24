@@ -22,8 +22,8 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course targets all analysts and data scientists keen to master applications of Unsupervised Learning from a conceptual and practical point of view. Prior python programming experience is a requirement, and experience with data analysis and machine learning analysis will be helpful; a basic knowledge of Unsupervised Learning algorithms such as Clustering and Dimensionality Reduction is expected.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-SETUP INFORMATION 
-Setup and Installation
+<b>SETUP INFORMATION</b> <br>
+Setup and Installation<br>
 This will vary on a product-by-product basis, but should be a standard PI element for ILT products. This example is relatively basic.
 
 Minimum Hardware Requirements
