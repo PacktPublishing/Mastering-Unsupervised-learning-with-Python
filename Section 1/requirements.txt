@@ -78,7 +78,7 @@ preshed==1.0.0
 prompt-toolkit==1.0.15
 protobuf==3.5.2.post1
 ptyprocess==0.5.2
-py==1.5.3
+py==1.10.0
 pycodestyle==2.3.1
 Pygments==2.2.0
 pyLDAvis==2.1.1
